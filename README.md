@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on Front-end
 - 🌱 I’m currently learning Back-end
 - 📫 How to reach me: beacons.ai/marlonfrade
-- 😄 Pronouns: he/him
   <div style="display: inline_block"><br>
   <img align="center" alt="Marlon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marlon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
