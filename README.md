@@ -10,7 +10,6 @@
 
 # 👋 Hi there! I'm Marlon M. Frade
 
-##
 - 🔭 I’m currently working on Front-end
 - 🌱 I’m currently learning Back-end
 - 📫 How to reach me: beacons.ai/marlonfrade
