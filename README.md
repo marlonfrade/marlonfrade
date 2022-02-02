@@ -2,7 +2,7 @@
 <!-- </a<a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/7ce516f1c6ca2bad052860805c459c7f.gif" width="200" height="200" border="0" alt="Marlon-Image" </a>
   </div> -->
   
-#  I'm Marlon M. Frade
+#  Marlon M. Frade
 
 - I’m currently working on Front-end
 <!-- - 🌱 I’m currently learning Back-end -->
