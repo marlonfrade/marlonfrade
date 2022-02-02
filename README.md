@@ -4,9 +4,9 @@
   
 #  I'm Marlon M. Frade
 
-- 🔭 I’m currently working on Front-end
+- I’m currently working on Front-end
 <!-- - 🌱 I’m currently learning Back-end -->
-- 📫 How to reach me: beacons.ai/marlonfrade
+- How to reach me: beacons.ai/marlonfrade
   <div style="display: inline_block"><br>
   <img align="center" alt="Marlon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marlon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -19,9 +19,8 @@
 
 <div align="center">
   <a href="https://beacons.ai/marlonfrade">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonfrade&layout=compact&langs_count=7&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marlonfrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonfrade&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   ##
