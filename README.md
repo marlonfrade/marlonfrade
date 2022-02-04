@@ -4,9 +4,9 @@
   
 #  Marlon M. Frade
 
-- I’m currently working on Front-end
-<!-- - 🌱 I’m currently learning Back-end -->
-  - How to reach me: <a href="https://beacons.ai/marlonfrade">Link to my Contact</a>
+- Front-end Developer
+- How to reach me: <a href="https://beacons.ai/marlonfrade">Contact Profile</a>
+- Languages:
   <div style="display: inline_block"><br>
   <img align="center" alt="Marlon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marlon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -16,9 +16,8 @@
   <img align="center" alt="Marlon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <!--   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
 </div>
-  
-  <div height="30"></div>
 
+# Welcome to my GitHub:
 <div align="center">
   <a href="https://beacons.ai/marlonfrade">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonfrade&layout=compact&langs_count=7&theme=dark"/>
