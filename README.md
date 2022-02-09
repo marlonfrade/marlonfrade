@@ -29,8 +29,8 @@
 <div style="display: inline_block" width = "1000em">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonfrade&layout=compact&langs_count=7&theme=blue-green"/>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=marlonfrade&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <hr>
-  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=marlonfrade&theme=blue-green"/>
+<!--   <hr>
+  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=marlonfrade&theme=blue-green"/> -->
 </div>
  
 <!--   ![Snake animation](https://github.com/marlonfrade/marlonfrade/blob/output/github-contribution-grid-snake.svg) -->  
