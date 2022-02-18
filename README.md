@@ -2,15 +2,20 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Marlon Frade&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
  <!-- ./BANNER -->
  
- <!-- CONTACT-->
-<div align="center">
-<a href="https://api.whatsapp.com/send?phone=5547992844636" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-<a href = "mailto:marlonmelobr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/marlonmelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://gitlab.com/marlonfrade" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
-    <hr>
- </div>
-<!-- ./CONTACT -->
+<!-- ICONS-->
+<div align="center"> 
+  <img align="top" alt="Marlon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="top" alt="Marlon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="top" alt="Marlon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="top" alt="Marlon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="top" alt="Marlon-SASS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="top" alt="Marlon-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="top;" alt="Marlon-Node" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<!--   <img align="top" alt="Marlon-Express" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+ <img align="top" alt="Marlon-NextJs" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">  -->
+</div>
+<hr>
+ <!-- ./ICONS -->
   
  <!-- TEXT-->
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=Welcome,+To+Marlon+Frade+GitHub;I+Specialize+in+WEB+DEVELOPMENT;I+Expertise+>+2+Years+in+Programming;If+You+Like+My+Work+Follow+Me+and+Reach+Me;Thanks+:%29)](https://git.io/typing-svg)
@@ -28,19 +33,16 @@
 </div>
 <!-- ./STATS -->
 
-<!-- ICONS-->
-<hr>
-<div align="center"> 
-  <img align="top" alt="Marlon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="top" alt="Marlon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="top" alt="Marlon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="top" alt="Marlon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="top" alt="Marlon-SASS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="top" alt="Marlon-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="top" alt="Marlon-Node" height="30" width="60" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="top" alt="Marlon-Express" height="30" width="60" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badgee">    
-</div>
- <!-- ./ICONS -->
+ 
+  <!-- CONTACT-->
+<div align="center">
+ <hr>
+<a href="https://api.whatsapp.com/send?phone=5547992844636" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+<a href = "mailto:marlonmelobr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marlonmelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://gitlab.com/marlonfrade" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
+ </div>
+<!-- ./CONTACT -->
 
  
 
