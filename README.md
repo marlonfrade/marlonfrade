@@ -36,7 +36,7 @@
  <img align="top;" alt="Marlon-Express" height="30" width="40" src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff">
  <img align="top;" alt="Marlon-Mongo" height="30" width="40" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor">
  <img align="top;" alt="Marlon-MYSQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
- <img align="top" alt="Marlon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="top" alt="Marlon-Js" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=ffffffg">
  <img align="top" alt="Marlon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="top" alt="Marlon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="top" alt="Marlon-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
