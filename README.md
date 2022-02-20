@@ -31,15 +31,22 @@
 <!-- ICONS-->
 <hr>
 <div align="center"> 
-  <img align="top" alt="Marlon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="top;" alt="Marlon-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="top" alt="Marlon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="top" alt="Marlon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="top" alt="Marlon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="top" alt="Marlon-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="top" alt="Marlon-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<!--   <img align="top" alt="Marlon-Express" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
- <img align="top" alt="Marlon-NextJs" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">  -->
+ <img align="top" alt="Marlon-React" height="30" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor">
+ <img align="top;" alt="Marlon-Node" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
+ <img align="top;" alt="Marlon-Express" height="30" width="40" src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff">
+ <img align="top;" alt="Marlon-Mongo" height="30" width="40" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor">
+ <img align="top;" alt="Marlon-MYSQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
+ <img align="top" alt="Marlon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="top" alt="Marlon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="top" alt="Marlon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="top" alt="Marlon-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+ <img align="top" alt="Marlon-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+ <img align="top" alt="Marlon-GIT" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"> 
+ <img align="top" alt="Marlon-GitHub" height="30" width="40" src="https://icongr.am/devicon/github-original.svg?size=128&color=ffffff"> 
+ <img align="top" alt="Marlon-GitLab" height="30" width="40" src="https://icongr.am/devicon/gitlab-original-wordmark.svg?size=128&color=currentColor">
+ <img align="top" alt="Marlon-Linux" height="30" width="40" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor"> 
+ <img align="top" alt="Marlon-VS" height="30" width="40" src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor">
+ <img align="top" alt="Marlon-npm" height="30" width="40" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor">
 </div>
  <!-- ./ICONS -->
   
