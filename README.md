@@ -41,12 +41,14 @@
  <img align="top" alt="Marlon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="top" alt="Marlon-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
  <img align="top" alt="Marlon-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+ <img align="top" alt="Marlon-BootStrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
  <img align="top" alt="Marlon-GIT" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"> 
  <img align="top" alt="Marlon-GitHub" height="30" width="40" src="https://icongr.am/devicon/github-original.svg?size=128&color=ffffff"> 
  <img align="top" alt="Marlon-GitLab" height="30" width="40" src="https://icongr.am/devicon/gitlab-original-wordmark.svg?size=128&color=currentColor">
  <img align="top" alt="Marlon-Linux" height="30" width="40" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor"> 
  <img align="top" alt="Marlon-VS" height="30" width="40" src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor">
  <img align="top" alt="Marlon-npm" height="30" width="40" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor">
+ <img align="top" alt="Marlon-POSTMAN" height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
 </div>
  <!-- ./ICONS -->
   
