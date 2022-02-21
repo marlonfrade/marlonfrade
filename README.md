@@ -2,7 +2,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF9C24&height=180&section=header&text=Marlon Frade&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
  <!-- ./BANNER -->
  
-   <!-- CONTACT-->
+<!-- CONTACT-->
 <div align="center">
 <a href="https://api.whatsapp.com/send?phone=5547992844636" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 <a href = "mailto:marlonmelobr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -60,32 +60,56 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF9C24&height=120&section=footer"/>
 <!-- ./FOOTER-->
 
- <!-- VISITORS-->
+
+
+<!--
+Profile references:
+https://github.com/RitchieS
+https://github.com/purplProto
+https://github.com/0xEquinox
+https://github.com/HuskyHacks
+https://github.com/kleiton0x00
+https://github.com/jsifuentes
+https://github.com/remonsec
+https://github.com/brettcannon
+https://github.com/mubix
+https://github.com/K1B0R
+https://github.com/GuillaumeFalourd
+https://github.com/Garoze
+https://github.com/FOrDunn
+
+Repos utilized for this page:
+https://github.com/anuraghazra/github-readme-stats
+https://github.com/Ileriayo/markdown-badges
+https://github.com/antonkomarev/github-profile-views-counter
+-->
+
+
+<!----------------------------------------------------------------------------------COMMENTS------------------------------------------------------------------------------------>
+<!---------------------------------------------------------------------------------- IGNORE ------------------------------------------------------------------------------------>
+
+<!-- VISITORS-->
 <!--  ## Visitor's Count: :detective: <br>
  <div align="center">
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/marlonfrade/count.svg" />
  </p>
  </div> -->
- <!-- ./VISITORS -->
+<!-- ./VISITORS -->
 
-
-
-
-<!--COMMENTS-->
-<!-- IGNORE -->
-
+<!-- HR-STYLE-->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> -->
+ <!-- ./HR-STYLE -->
   
-<!--   <hr>
-  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=marlonfrade&theme=blue-green"/> -->
-<!-- </div> -->
- 
+<!-- SNAKE-ANIMATION-->
 <!--   ![Snake animation](https://github.com/marlonfrade/marlonfrade/blob/output/github-contribution-grid-snake.svg) -->  
+<!-- ./SNAKE-ANIMATION -->
 
+<!-- IMAGE-BANNER-->
 <!-- <div>
 </a<a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/7ce516f1c6ca2bad052860805c459c7f.gif" width="200" height="200" border="0"      alt="Marlon-Image" </a>
   </div> -->
+<!-- ./IMAGE-BANNER -->
   
 <!-- ICONS CLEAN   -->
 <!-- <div align="center"> 
