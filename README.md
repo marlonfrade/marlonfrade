@@ -32,26 +32,26 @@
 <hr>
 <table align="center">
   <tr>
-    <td><img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="60"></td>
-    <td><img src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff" width="60"></td>
-    <td><img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" width="60"></td>
-    <td><img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" width="60"></td>
-    <td><img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=ffffffg" width="60"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="60"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60"></td>
+    <td><img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="50"></td>
+    <td><img src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff" width="50"></td>
+    <td><img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" width="50"></td>
+    <td><img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" width="50"></td>
+    <td><img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=ffffffg" width="50"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"></td>
    </tr>
     <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60"></td>
-    <td><img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" width="60"></td>
-    <td><img src="https://icongr.am/devicon/github-original.svg?size=128&color=ffffff" width="60"></td>
-    <td><img src="https://icongr.am/devicon/gitlab-original-wordmark.svg?size=128&color=currentColo" width="60"></td>
-    <td><img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" width="60"></td>
-    <td><img src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor" width="60"></td>
-    <td><img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor" width="60"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/apple-1237-1174963.png" width="60"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50"></td>
+    <td><img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" width="50"></td>
+    <td><img src="https://icongr.am/devicon/github-original.svg?size=128&color=ffffff" width="50"></td>
+    <td><img src="https://icongr.am/devicon/gitlab-original-wordmark.svg?size=128&color=currentColo" width="50"></td>
+    <td><img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" width="50"></td>
+    <td><img src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor" width="50"></td>
+    <td><img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor" width="50"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/apple-1237-1174963.png" width="50"></td>
    </tr>
   </table>
  <!-- ./ICONS -->
