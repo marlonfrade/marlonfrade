@@ -56,9 +56,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF9C24&height=120&section=footer"/>
 <!-- ./FOOTER-->
 
+ <!-- VISITORS-->
+<!--  ## Visitor's Count: :detective: <br>
+ <div align="center">
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/marlonfrade/count.svg" />
+ </p>
+ </div> -->
+ <!-- ./VISITORS -->
 
 
-  
+
+
 <!--COMMENTS-->
 <!-- IGNORE -->
   
