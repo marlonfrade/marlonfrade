@@ -29,54 +29,31 @@
 <!-- ./STATS -->
 
 <!-- ICONS-->
-<table>
+<hr>
+<table align="center">
   <tr>
-    <td><img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="100"></td>
-    <td><img src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff" width="100"></td>
-    <td><img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" width="100"></td>
-    <td><img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" width="100"></td>
-    <td><img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=ffffffg" width="100"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="100"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="100"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="100"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="100"></td>
+    <td><img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="60"></td>
+    <td><img src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff" width="60"></td>
+    <td><img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" width="60"></td>
+    <td><img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" width="60"></td>
+    <td><img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=ffffffg" width="60"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="60"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60"></td>
    </tr>
     <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="100"></td>
-    <td><img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" width="100"></td>
-    <td><img src="https://icongr.am/devicon/github-original.svg?size=128&color=ffffff" width="100"></td>
-    <td><img src="https://icongr.am/devicon/gitlab-original-wordmark.svg?size=128&color=currentColo" width="100"></td>
-    <td><img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" width="100"></td>
-    <td><img src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor" width="100"></td>
-    <td><img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor" width="100"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/pycharm-1175008.png" width="100"></td>
-  
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60"></td>
+    <td><img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" width="60"></td>
+    <td><img src="https://icongr.am/devicon/github-original.svg?size=128&color=ffffff" width="60"></td>
+    <td><img src="https://icongr.am/devicon/gitlab-original-wordmark.svg?size=128&color=currentColo" width="60"></td>
+    <td><img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" width="60"></td>
+    <td><img src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor" width="60"></td>
+    <td><img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor" width="60"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/apple-1237-1174963.png" width="60"></td>
    </tr>
   </table>
-
-
-
-<hr>
-<div align="center"> 
- <img  alt="Marlon-Node" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
- <img  alt="Marlon-Express" height="30" width="40" src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff">
- <img  alt="Marlon-Mongo" height="30" width="40" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor">
- <img  alt="Marlon-MYSQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
- <img  alt="Marlon-Js" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=ffffffg">
- <img  alt="Marlon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img  alt="Marlon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img  alt="Marlon-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
- <img  alt="Marlon-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
- <img  alt="Marlon-BootStrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
- <img  alt="Marlon-GIT" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"> 
- <img  alt="Marlon-GitHub" height="30" width="40" src="https://icongr.am/devicon/github-original.svg?size=128&color=ffffff"> 
- <img  alt="Marlon-GitLab" height="30" width="40" src="https://icongr.am/devicon/gitlab-original-wordmark.svg?size=128&color=currentColor">
- <img  alt="Marlon-Linux" height="30" width="40" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor"> 
- <img  alt="Marlon-VS" height="30" width="40" src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor">
- <img  alt="Marlon-npm" height="30" width="40" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor">
- <img  alt="Marlon-POSTMAN" height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-</div>
  <!-- ./ICONS -->
   
 <!-- FOOTER -->
@@ -107,3 +84,25 @@
 <!-- <div>
 </a<a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/7ce516f1c6ca2bad052860805c459c7f.gif" width="200" height="200" border="0"      alt="Marlon-Image" </a>
   </div> -->
+  
+<!-- ICONS CLEAN   -->
+<!-- <div align="center"> 
+ <img  alt="Marlon-Node" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
+ <img  alt="Marlon-Express" height="30" width="40" src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff">
+ <img  alt="Marlon-Mongo" height="30" width="40" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor">
+ <img  alt="Marlon-MYSQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
+ <img  alt="Marlon-Js" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=ffffffg">
+ <img  alt="Marlon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img  alt="Marlon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img  alt="Marlon-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+ <img  alt="Marlon-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+ <img  alt="Marlon-BootStrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+ <img  alt="Marlon-GIT" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"> 
+ <img  alt="Marlon-GitHub" height="30" width="40" src="https://icongr.am/devicon/github-original.svg?size=128&color=ffffff"> 
+ <img  alt="Marlon-GitLab" height="30" width="40" src="https://icongr.am/devicon/gitlab-original-wordmark.svg?size=128&color=currentColor">
+ <img  alt="Marlon-Linux" height="30" width="40" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor"> 
+ <img  alt="Marlon-VS" height="30" width="40" src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor">
+ <img  alt="Marlon-npm" height="30" width="40" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor">
+ <img  alt="Marlon-POSTMAN" height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+ <img  alt="Marlon-APPLE" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-64/apple-1237-1174963.png">
+</div> -->
