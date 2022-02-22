@@ -60,6 +60,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF9C24&height=120&section=footer"/>
 <!-- ./FOOTER-->
 
+
 <!-- VISITORS TABLE -->
 <table align="center">
   <tr>
@@ -70,21 +71,23 @@
 <!-- ./VISITORS TABLE-->
 
 
-
 <!--
-Profile references:
+Profile References:
+https://github.com/timashan/timashan
+https://github.com/Carol42/Carol42
+https://github.com/Eugene0920/Eugene0920
+https://github.com/somePythonProgrammer/somePythonProgrammer
+https://github.com/lowlighter/metrics
+https://github.com/projectdp/projectdp
+https://github.com/a3X3k/a3X3k
+
+Others References
 https://github.com/RitchieS
-https://github.com/purplProto
 https://github.com/0xEquinox
 https://github.com/HuskyHacks
-https://github.com/kleiton0x00
-https://github.com/jsifuentes
 https://github.com/remonsec
-https://github.com/brettcannon
-https://github.com/mubix
 https://github.com/K1B0R
 https://github.com/GuillaumeFalourd
-https://github.com/Garoze
 https://github.com/FOrDunn
 
 Repos utilized for this page:
@@ -97,14 +100,6 @@ https://github.com/antonkomarev/github-profile-views-counter
 <!----------------------------------------------------------------------------------COMMENTS------------------------------------------------------------------------------------>
 <!---------------------------------------------------------------------------------- IGNORE ------------------------------------------------------------------------------------>
 
-<!-- VISITORS-->
-<!--  ## Visitor's Count: :detective: <br>
- <div align="center">
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/marlonfrade/count.svg" />
- </p>
- </div> -->
-<!-- ./VISITORS -->
 
 <!-- HR-STYLE-->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> -->
