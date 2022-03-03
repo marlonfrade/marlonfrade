@@ -23,8 +23,8 @@
  
  <!-- STATS -->
 <div align="center">  
-  <img width="51%" height="220px" src="https://github-readme-stats.vercel.app/api?username=marlonfrade&show_icons=true&count_private=true&hide_border=true&title_color=FF9C24&icon_color=FF9C24&text_color=FF9C24&bg_color=0d1117" alt="Marlon Frade github stats" /> 
-  <img width="45%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonfrade&layout=compact&hide_border=true&title_color=FF9C24&text_color=FF9C24&bg_color=0d1117" />
+  <img width="500px" height="220px" src="https://github-readme-stats.vercel.app/api?username=marlonfrade&show_icons=true&count_private=true&hide_border=true&title_color=FF9C24&icon_color=FF9C24&text_color=FF9C24&bg_color=0d1117" alt="Marlon Frade github stats" /> 
+  <img width="450px" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonfrade&layout=compact&hide_border=true&title_color=FF9C24&text_color=FF9C24&bg_color=0d1117" />
 </div>
 <!-- ./STATS -->
 
