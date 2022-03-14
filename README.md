@@ -17,9 +17,7 @@
  <!-- ./TEXT -->
  
  <!-- RESUME-->
-
-** <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=marlonfrade&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FF9C24&fire=FF9C24&currStreakLabel=FF9C24" alt="Marlon Frade" /></div>**
-
+<!-- <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=marlonfrade&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FF9C24&fire=FF9C24&currStreakLabel=FF9C24" alt="Marlon Frade" /></div> -->
  <!-- ./RESUME -->
  
  
