@@ -1,6 +1,7 @@
- <!-- BANNER-->
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF9C24&height=180&section=header&text=Marlon Frade&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
- <!-- ./BANNER -->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF9C24&height=180&section=header&text=marlonfrade&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+
  
 <!-- CONTACT-->
 <div align="center">
