@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f5af0&height=180&section=header&text=marlonfrade&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=180&section=header&text=marlonfrade&fontSize=30&fontColor=7f5af0&animation=twinkling&fontAlignY=35"/>
 
 
  
@@ -24,8 +24,8 @@
  
  <!-- STATS -->
 <div align="center">  
-  <img width="400px" height="220px" src="https://github-readme-stats.vercel.app/api?username=marlonfrade&show_icons=true&count_private=true&hide_border=true&title_color=7f5af0&icon_color=7f5af0&text_color=7f5af0&bg_color=0d1117" alt="Marlon Frade github stats" /> 
-  <img width="350px" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonfrade&layout=compact&hide_border=true&title_color=7f5af0&text_color=7f5af0&bg_color=0d1117" />
+  <img width="400px" height="220px" src="https://github-readme-stats.vercel.app/api?username=marlonfrade&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=7f5af0&text_color=fff&bg_color=0d1117" alt="Marlon Frade github stats" /> 
+  <img width="350px" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonfrade&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
 </div>
 <!-- ./STATS -->
 
@@ -60,7 +60,7 @@
  <!-- ./ICONS -->
   
 <!-- FOOTER -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f5af0&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"/>
 <!-- ./FOOTER-->
 
 
