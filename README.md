@@ -14,7 +14,7 @@
 <!-- ./CONTACT -->
   
  <!-- TEXT-->
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7f5af0&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+To+Marlon+Frade+GitHub!;I+Specialize+in+WEB+DEVELOPMENT;I+Expertise+>+2+Years+in+Programming;If+You+Like+My+Work+Follow+And+Reach+Me;Thanks+:%29)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7f5af0&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+To+Marlon+Frade+GitHub!;I+Specialize+in+WEB+DEVELOPMENT;I+Expertise+>+4+Years+in+Programming;If+You+Like+My+Work+Follow+And+Reach+Me;Thanks+:%29)](https://git.io/typing-svg)
  <!-- ./TEXT -->
  
  <!-- RESUME-->
