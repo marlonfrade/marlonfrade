@@ -25,7 +25,7 @@
  <!-- STATS -->
 <div align="center">  
   <img width="400px" height="220px" src="https://github-readme-stats.vercel.app/api?username=marlonfrade&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=7f5af0&text_color=fff&bg_color=0d1117" alt="Marlon Frade github stats" /> 
-  <img width="350px" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonfrade&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
+  <img width="350px" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonfrade&hide=javascript,html,Sass,SCSS,EJS,CSS&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
 </div>
 <!-- ./STATS -->
 
