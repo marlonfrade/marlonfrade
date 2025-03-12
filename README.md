@@ -34,7 +34,7 @@
 <table align="center">
   <tr>
 <!--     <td>Web Tools</td> -->
-    <td><img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="50"></td>
+ <!--   <td><img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="50"></td>
     <td><img src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff" width="50"></td>
     <td><img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" width="50"></td>
     <td><img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" width="50"></td>
@@ -46,7 +46,7 @@
    </tr>
     <tr>
 <!--     <td>Work Tools</td> -->
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50"></td>
+    <!-- <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50"></td>
     <td><img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" width="50"></td>
     <td><img src="https://icongr.am/devicon/github-original.svg?size=128&color=ffffff" width="50"></td>
     <td><img src="https://icongr.am/devicon/gitlab-original-wordmark.svg?size=128&color=currentColo" width="50"></td>
